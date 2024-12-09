@@ -1,3 +1,21 @@
 p{
+    color: gray;
+}
+
+h1{
     color: green;
+    font-size: 30px;
+    margin: bottom 30px;
+}
+
+h2 {
+    color:rgb(9, 46, 9);
+    font-size: 20px;
+    margin: bottom 10px;
+}
+
+ul {
+    color: rgb(73, 63, 36);
+    font-size: 20px;
+    margin: bottom 15px;
 }
